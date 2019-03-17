@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1061083979355",
+    "firebase_url": "https://surveillaceathenaiot.firebaseio.com",
+    "project_id": "surveillaceathenaiot",
+    "storage_bucket": "surveillaceathenaiot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061083979355:android:f062ac75e91319cc",
+        "android_client_info": {
+          "package_name": "br.com.fiap.iot.iotsensorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061083979355-o6vri7ihj1g21bv1ri6dv0r2ne04c7su.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fiap.iot.iotsensorapp",
+            "certificate_hash": "52d8ff0d5731db5ad381cc7364c8367df4eef724"
+          }
+        },
+        {
+          "client_id": "1061083979355-qtom4r6epllqftb2q9314ptcgl4hsvnk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhktTB_z4rbTmsdl6AyurTsQe_RYm-Xc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061083979355-qtom4r6epllqftb2q9314ptcgl4hsvnk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
